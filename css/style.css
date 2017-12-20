@@ -109,3 +109,21 @@ h3::before{
   content: '\2767';
   margin-right: 5px;
 }
+
+.paragraph-symb{
+  text-align: center;
+  font-size: 4em;
+  margin: 0 auto;
+  padding: 20px 0px;
+}
+
+.antoine{
+  margin: 0;
+  font-family: "CardoItalic";
+}
+
+.author2{
+  display: block;
+  text-align: right;
+  padding-top: 10px;
+}
